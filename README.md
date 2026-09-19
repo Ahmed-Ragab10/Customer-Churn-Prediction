@@ -526,7 +526,3 @@ Prediction
 Streamlit Application
 ```
 
-```
-
-ده جاهز للنسخ مباشرة إلى `README.md`.
-```
